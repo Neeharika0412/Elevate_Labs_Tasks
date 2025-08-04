@@ -6,7 +6,7 @@ Dataset Info
 
 Cleaning Summary
 
-Performed using **Python (Pandas)** in **Google Colab**:
+Performed using Python (Pandas) in Google Colab:
 
 - Renamed columns to lowercase with underscores
 - Removed duplicate rows
@@ -21,3 +21,6 @@ Files Included
 
 Tools
 - Python 3, Pandas, Google Colab
+
+Notebook: [jupyter.ipynb](./jupyter.ipynb)  
+Cleaned Data: [netflix_titles_cleaned.csv](./netflix_titles_cleaned.csv)
