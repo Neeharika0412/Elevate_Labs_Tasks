@@ -1,10 +1,10 @@
-# 📊 Netflix Titles Dataset – Data Cleaning Project
+Netflix Titles Dataset – Data Cleaning Project
 
-## 📁 Dataset Info
+Dataset Info
 - Source: [Kaggle - Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 - Contains data on Netflix's movies and TV shows, including title, cast, director, country, release year, rating, and date added.
 
-## 🧹 Cleaning Summary
+Cleaning Summary
 
 Performed using **Python (Pandas)** in **Google Colab**:
 
@@ -14,10 +14,10 @@ Performed using **Python (Pandas)** in **Google Colab**:
 - Filled missing `rating` with `'NR'` (Not Rated)
 - Filled missing `director`, `cast`, and `country` with `'Unknown'`
 
-## 📄 Files Included
+Files Included
 - `netflix_titles_cleaned.csv` – Cleaned dataset
 - `netflix_cleaning.ipynb` – Colab notebook with cleaning code
 - `README.md` – This summary
 
-## 🛠 Tools
+Tools
 - Python 3, Pandas, Google Colab
